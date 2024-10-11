@@ -35,7 +35,7 @@ Example of an assignment object:
     "task": "Hello World",
     "admin": "Alok"
 }
-
+```
 ## Requirements
 
 **Database**
@@ -105,6 +105,7 @@ Fork the repository.
 Create a new branch for your feature or fix.
 Commit your changes.
 Push to the branch and submit a pull request.
+
 
 
 
